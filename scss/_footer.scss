@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+footer {
+    $ft-height: 50px;
+    background-color: #191919;
+    height: $ft-height;
+    line-height: $ft-height;
+    color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
